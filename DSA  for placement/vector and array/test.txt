@@ -1,0 +1,5 @@
+imp concepts:
+sort(nlogn)
+binary search(logn) (instead of n^2 we can use combination of a loop(n) and binary search(logn))
+two ptr approach(n) (can be used in combination with sort)
+
