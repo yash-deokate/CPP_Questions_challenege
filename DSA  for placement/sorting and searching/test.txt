@@ -1,0 +1,4 @@
+mergesort
+quicksort algo
+question related to number of terms(ints) (majority element)
+moores voting algo
